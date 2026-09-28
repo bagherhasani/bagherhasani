@@ -12,10 +12,8 @@
 
 ## 💫 About Me
 
-🔭 building an HTTP load balancer in Go  
+
 🌱 going deep on Linux and how services fail  
-💬 Python, C++, Docker, GitLab  
-⚡ I like when the logs tell you the truth
 
 ## 🌐 Socials
 
