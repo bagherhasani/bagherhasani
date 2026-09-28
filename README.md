@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=160&section=header&text=Baqer%20Hassani&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=CS%20%40%20Tulsa%20·%20Linux%20·%20Python%20·%20C%2B%2B&descAlignY=54&descSize=17&animation=twinkling" alt="header" />
+  <img src="./header.svg" alt="header" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&cursor=true&width=640&height=50&lines=linux+%7C+python+%7C+c%2B%2B+%7C+go;http+load+balancer;round-robin+%2B+health+checks" alt="typing" />
 
@@ -53,6 +53,6 @@
 
 <img src="https://ghchart.rshah.org/58a6ff/bagherhasani" alt="activity" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=90&section=footer&animation=twinkling" alt="footer" />
+<img src="./footer.svg" alt="footer" />
 
 </div>
