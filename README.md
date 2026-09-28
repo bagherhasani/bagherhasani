@@ -2,7 +2,7 @@
 
   <img src="./header.svg" alt="header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&cursor=true&width=640&height=50&lines=linux+%7C+python+%7C+c%2B%2B+%7C+go;http+load+balancer;round-robin+%2B+health+checks" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&cursor=true&width=720&height=50&lines=linux+%7C+python+%7C+c%2B%2B+%7C+go;i+show+up+when+the+system+is+on+fire;keep+the+lights+on" alt="typing" />
 
 </div>
 
