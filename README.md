@@ -1,55 +1,45 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=140&section=header&text=Baqer%20Hassani&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=CS%20%40%20Tulsa%20·%20Linux%20·%20Python%20·%20C%2B%2B&descAlignY=58&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=160&section=header&text=Baker%20Hassani&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=CS%20%40%20Tulsa%20·%20Linux%20·%20Python%20·%20C%2B%2B&descAlignY=54&descSize=17&animation=twinkling" alt="header" />
 
-  <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&lines=linux+%7C+python+%7C+c%2B%2B;building+an+http+load+balancer;round-robin+%2B+health+checks" alt="typing" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&cursor=true&width=640&height=50&lines=linux+%7C+python+%7C+c%2B%2B+%7C+go;http+load+balancer;round-robin+%2B+health+checks" alt="typing" />
 
 </div>
 
 <br/>
 
-# 💫 About Me
+<div align="center">
 
-- 🔭 I’m building an HTTP load balancer in Go
-- 🌱 I’m going deep on Linux and how services fail
-- 💬 Ask me about Python, C++, Docker, and GitLab
-- ⚡ I like when the logs tell you the truth
+## 💫 About Me
 
-# 🌐 Socials
+🔭 building an HTTP load balancer in Go  
+🌱 going deep on Linux and how services fail  
+💬 Python, C++, Docker, GitLab  
+⚡ I like when the logs tell you the truth
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baqerhassani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagherhasani0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://bagherhasani.github.io/portfolio)
-[![Load%20Balancer](https://img.shields.io/badge/Load_Balancer-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/bagherhasani/HTTP-Load-Balancer)
+## 🌐 Socials
 
-# 💻 Tech Stack
+<a href="https://www.linkedin.com/in/baqerhassani"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+&nbsp;
+<a href="mailto:bagherhasani0@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
+&nbsp;
+<a href="https://github.com/bagherhasani"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
+&nbsp;
+<a href="https://github.com/bagherhasani/HTTP-Load-Balancer"><img src="https://skillicons.dev/icons?i=go" alt="load balancer" /></a>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+## 💻 Tech Stack
 
-# 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=linux,python,cpp,go,bash,docker,git,gitlab,githubactions,mysql,nginx,azure,fastapi,grafana&theme=dark&perline=7" alt="tech stack" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bagherhasani&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagherhasani&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="languages" />
+## 📊 GitHub Stats
 
-<br/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bagherhasani&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" alt="stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagherhasani&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="languages" />
 
 <img src="https://streak-stats.demolab.com/?user=bagherhasani&theme=tokyonight&hide_border=true" alt="streak" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=80&section=footer" alt="footer" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bagherhasani&bg_color=1a1b27&color=58a6ff&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="activity" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=90&section=footer&animation=twinkling" alt="footer" />
+
 </div>
