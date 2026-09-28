@@ -19,17 +19,30 @@
 
 ## 🌐 Socials
 
-<a href="https://www.linkedin.com/in/baqerhassani"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-&nbsp;
-<a href="mailto:bagherhasani0@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
-&nbsp;
-<a href="https://github.com/bagherhasani"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
-&nbsp;
-<a href="https://github.com/bagherhasani/HTTP-Load-Balancer"><img src="https://skillicons.dev/icons?i=go" alt="load balancer" /></a>
+[LinkedIn](https://www.linkedin.com/in/baqerhassani) · [Email](mailto:bagherhasani0@gmail.com) · [GitHub](https://github.com/bagherhasani)
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=linux,python,cpp,go,bash,docker,git,gitlab,githubactions,mysql,nginx,azure,fastapi,grafana&theme=dark&perline=7" alt="tech stack" />
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br/>Linux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" alt="Python" /><br/>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /><br/>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=go" alt="Go" /><br/>Go</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /><br/>Bash</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /><br/>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" alt="Git" /><br/>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /><br/>GitLab</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /><br/>GitHub Actions</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /><br/>Nginx</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /><br/>Azure</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /><br/>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /><br/>Grafana</td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
